@@ -1,0 +1,3 @@
+TimeStamp 2014 01 04 17 31 18 Distance 9.67
+TimeStamp 2014 01 04 17 35 38 Distance 23.29
+TimeStamp 2014 01 04 17 39 49 Distance 25.21
